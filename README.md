@@ -69,7 +69,7 @@ docker push angiemegil/calculadorarepo:latest
 ```  
 ![](img/PushDockerHub.PNG)
 
-La muestra de la ejecución local con Docker se muestra [AQUI](./img/VideoLocal.mp4)
+La muestra de la ejecución local con Docker se muestra [AQUI](https://youtu.be/ObJhpPPVko8)
 
 Para realizar el proceso en AWS, se deberá crear una instancia EC2, generar las llaves, cambiar los permisos e iniciar sesión en la maquina desde consola.  
 Una vez conectado a la maquina s debera installar dockerHub
@@ -93,7 +93,7 @@ docker run -d -p 42000:6000 --name calculadoraimageaws angiemegil/calculadorarep
 ![](img/DockerImageAWS.PNG)
 
 
-La muestra de la ejecución de la maquina EC2 de AWS se muestra [AQUI](./img/VideoAWS.mp4)
+La muestra de la ejecución de la maquina EC2 de AWS se muestra [AQUI](https://youtu.be/wQlBuBk_9pw)
 
 ## Construido con 🛠️
 
