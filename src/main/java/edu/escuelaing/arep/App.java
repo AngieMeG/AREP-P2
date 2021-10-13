@@ -2,8 +2,6 @@ package edu.escuelaing.arep;
 
 import static spark.Spark.*;
 
-import java.util.HashMap;
-
 import org.json.JSONObject;
 
 import edu.escuelaing.arep.services.Matematica;
